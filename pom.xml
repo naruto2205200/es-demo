@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <es.client.version>7.4.0</es.client.version>
+        <es.client.version>7.14.0</es.client.version>
     </properties>
 
     <dependencies>
